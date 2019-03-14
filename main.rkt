@@ -9,7 +9,7 @@
 
 #lang racket/gui
 
-(require "utils.rkt" "switchable-case.rkt" "make-play-partition.rkt" "instrument.rkt" "frames.rkt")
+(require "src/utils.rkt" "src/switchable-case.rkt" "src/make-play-partition.rkt" "src/instrument.rkt" "src/frames.rkt")
 
 (require racket/system)
 
