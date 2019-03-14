@@ -1,4 +1,4 @@
 # drum_machine
-drum machine with export function written in Scheme
+Simple drum machine with export function.
 
 ![](drum_machine.gif)
